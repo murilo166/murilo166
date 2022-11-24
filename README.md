@@ -24,7 +24,7 @@
 <img align="center" alt=Html5 src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 
-<img align="center" alt=Html5 src="<img align="center" alt=Html5 src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img align="center" alt=Html5 src="<img align="center" alt=Html5 src= "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sqlserver&logoColor=white" />
 
 
 
