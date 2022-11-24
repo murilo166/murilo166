@@ -5,7 +5,7 @@
 
 
 
-![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo166&_icons=true&theme=dracula)
+![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo166&_icons=true&theme=merko)
 
 
 
