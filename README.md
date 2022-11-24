@@ -8,8 +8,18 @@
 ![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo166&_icons=true&theme=merko)
 
 
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo166&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Tecnologias que eu uso no meu dia
+
+<div style:"display: inline block><br/>
+
+<img align="center" alt=Html5 src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+
+</div>
 
 
 
