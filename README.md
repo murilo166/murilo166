@@ -8,7 +8,7 @@
 ![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo166&_icons=true&theme=merko)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo166&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que  uso no meu dia
 
 <div style:"display: inline block><br/>
 
